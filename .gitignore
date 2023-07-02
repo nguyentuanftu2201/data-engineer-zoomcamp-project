@@ -1,0 +1,4 @@
+*.json
+*.csv
+2_docker_sql/ny_taxi_postgres_data/
+2_docker_sql/yellow_taxi_data.csv
